@@ -1,0 +1,3 @@
+Deleted for space efficiency, you may download it from:
+
+https://github.com/codeniko/shape_predictor_81_face_landmarks
